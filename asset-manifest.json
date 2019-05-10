@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.ae4c1bed.chunk.css",
-    "main.js": "/repository-name/static/js/main.9fb75584.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.9fb75584.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-    "static/css/2.424bd964.chunk.css": "/repository-name/static/css/2.424bd964.chunk.css",
-    "static/js/2.dc155f86.chunk.js": "/repository-name/static/js/2.dc155f86.chunk.js",
-    "static/js/2.dc155f86.chunk.js.map": "/repository-name/static/js/2.dc155f86.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.3a1a9bcd6a67846ee55478c343d2b711.js": "/repository-name/precache-manifest.3a1a9bcd6a67846ee55478c343d2b711.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/2.424bd964.chunk.css.map": "/repository-name/static/css/2.424bd964.chunk.css.map",
-    "static/css/main.ae4c1bed.chunk.css.map": "/repository-name/static/css/main.ae4c1bed.chunk.css.map"
+    "main.css": "/weekly_expense_react/static/css/main.ae4c1bed.chunk.css",
+    "main.js": "/weekly_expense_react/static/js/main.a8275ade.chunk.js",
+    "main.js.map": "/weekly_expense_react/static/js/main.a8275ade.chunk.js.map",
+    "runtime~main.js": "/weekly_expense_react/static/js/runtime~main.4decaa87.js",
+    "runtime~main.js.map": "/weekly_expense_react/static/js/runtime~main.4decaa87.js.map",
+    "static/css/2.424bd964.chunk.css": "/weekly_expense_react/static/css/2.424bd964.chunk.css",
+    "static/js/2.dc155f86.chunk.js": "/weekly_expense_react/static/js/2.dc155f86.chunk.js",
+    "static/js/2.dc155f86.chunk.js.map": "/weekly_expense_react/static/js/2.dc155f86.chunk.js.map",
+    "index.html": "/weekly_expense_react/index.html",
+    "precache-manifest.2aef56dd7ffe1dd9881aa8d5c50f8804.js": "/weekly_expense_react/precache-manifest.2aef56dd7ffe1dd9881aa8d5c50f8804.js",
+    "service-worker.js": "/weekly_expense_react/service-worker.js",
+    "static/css/2.424bd964.chunk.css.map": "/weekly_expense_react/static/css/2.424bd964.chunk.css.map",
+    "static/css/main.ae4c1bed.chunk.css.map": "/weekly_expense_react/static/css/main.ae4c1bed.chunk.css.map"
   }
 }
