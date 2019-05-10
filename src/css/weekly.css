@@ -1,0 +1,39 @@
+@import url('~uikit/dist/css/uikit.css');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
+html {
+   background: #00B4DB;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   font-size: 1rem;
+}
+
+.container {
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+}
+
+.title {
+   color: white;
+   text-transform: uppercase;
+   text-align: center;
+   font-weight: 700;
+}
+
+.sub-title {
+   text-transform: uppercase;
+   text-align: center;
+   font-weight: 500;
+}
+
+.uk-input {
+   margin-bottom: 8px;
+}
